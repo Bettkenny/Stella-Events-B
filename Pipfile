@@ -5,6 +5,16 @@ name = "pypi"
 
 [packages]
 flask = "*"
+flask-restful = "*"
+flask-migrate = "*"
+flask-jwt-extended = "*"
+flask-cors = "*"
+sqlalchemy-serializer = "*"
+flask-bcrypt = "*"
+datetime = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+flask-sqlalchemy = "*"
 
 [dev-packages]
 
